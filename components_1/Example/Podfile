@@ -1,0 +1,8 @@
+use_frameworks!
+
+platform :ios, '10.0'
+
+target 'components_1_Example' do
+  pod 'components_1', :path => '../'
+
+end

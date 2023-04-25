@@ -1,0 +1,22 @@
+{
+  "name": "components_2",
+  "version": "0.1.0",
+  "summary": "A short description of components_2.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/qianquan/components_2",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "qianquan": "qianquan@shouqiev.com"
+  },
+  "source": {
+    "git": "https://github.com/qianquan/components_2.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "components_2/Classes/**/*"
+}
